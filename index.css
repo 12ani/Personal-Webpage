@@ -1,0 +1,114 @@
+.profile1{
+  font: italic bold 15px Georgia, serif;
+  margin-top: 20px;
+}
+
+h1{
+  font-family: "Georgia";
+  color: #4d4d4d;
+
+
+}
+
+.profile2{
+  margin-left: 30px;
+  margin-top: 40px;
+  line-height: 250%;
+
+
+}
+
+
+
+.edu_utd {
+  float: left;
+  width: 150px;
+  height: 150px;
+  padding: 5px
+
+}
+.edu_bvp {
+  float: left;
+  width: 210px;
+  height: 130px;
+  padding: 5px;
+
+}
+
+.clearfix {
+  content: "";
+  clear: both;
+  display: table;
+
+}
+
+.java {
+  width: 85%;
+background-color: #637283;
+
+}
+.py {
+  width: 70%;
+background-color: #7c8b9c;
+
+}
+
+.r{
+  width: 70%;
+background-color: #7c8b9c;
+}
+.htcs{
+  width: 90%;
+background-color: #4d5966;
+}
+
+.boot{
+  width: 70%;
+  background-color: #7c8b9c;
+
+}
+
+.js{
+  width: 60%;
+  background-color: #99a5b2;
+
+}
+
+.opera{
+  float: left;
+  width: 170px;
+  height: 150px;
+  padding: 5px
+
+}
+.dmrc{
+  float: left;
+  width: 150px;
+  height: 150px;
+  padding: 7px
+
+
+}
+
+.fa-linkedin{
+
+  color: #007bb5;
+}
+
+.fa-github{
+
+  color: black;
+
+}
+.fa-instagram{
+color: black;
+
+}
+
+
+.pageFooter {
+  background-color: #404040;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
